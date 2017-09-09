@@ -1,0 +1,46 @@
+body {
+	background-color: black;
+
+}
+
+
+
+#HangMan {
+	font-family: 'Nothing You Could Do', cursive;
+	font-family: 'Jim Nightshade', cursive;
+	font-size: 100px;
+	text-align: center;
+	color: #0f3d58;
+}
+
+
+.jumbotron {
+	background-image: url(https://static.pexels.com/photos/7321/sea-water-ocean-horizon.jpg);
+	background-size: 100% 102%
+} 
+
+jumbotron-fluid {
+	background-color: black;
+}
+
+h2 {
+	text-align: center;
+	color: #0f3d58;
+	border-style: ridge;
+	border-color: #0f3d58;
+	padding: 20px;
+}
+
+.guessLetters {
+	display: inline-block;
+	padding: 3px;
+}
+
+h1 {
+	color: #0f3d58;
+}
+
+button {
+	background-color: #0f3d58;
+	border-color: #0f3d58;
+}
